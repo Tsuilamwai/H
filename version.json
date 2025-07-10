@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.3", 
+  "latestVersion": "1.2", 
   "downloadUrl": "https://github.com/Tsuilamwai/H/releases/download/v1.2/FlyForFun.exe", 
   "updaterUrl": "https://github.com/Tsuilamwai/H/releases/download/v1.2/updater.exe", 
   "releaseNotes": "## 版本 1.2 (2025-07-09)\n\n### 优化内容\n- 减少日志生成，降低磁盘占用\n- 窗口调整优化\n- 启动速度加快",
